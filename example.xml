@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<articles>
+    <article>
+        <title>News 1 </title>
+        <description>China</description>
+    </article>
+    <article>
+        <title>News 2 </title>
+        <description>UK</description>
+    </article>
+</articles>
